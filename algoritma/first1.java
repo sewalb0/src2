@@ -1,6 +1,6 @@
 package algoritma;
 import java.util.Scanner;
-qqqs
+
 public class first1 {
 
 	public static void main(String[] args) {
